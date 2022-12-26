@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671812808 source:d:\kuliah\semester 3\struktur data\cipher\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
